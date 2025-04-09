@@ -1,4 +1,4 @@
-# 🧠 MediBot – Ask the Book!
+# 🧠 MediBot!
 
 MediBot is an intelligent question-answering chatbot that extracts and answers queries using information from the **Gale Encyclopedia of Medicine (2nd Edition)**. It uses state-of-the-art embeddings, vector databases, and large language models to generate contextually relevant answers backed by the book.
 
